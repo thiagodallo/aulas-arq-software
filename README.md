@@ -10,7 +10,7 @@ Cada aula fica em sua própria pasta, contendo o projeto/exercício trabalhado e
 |------|-----------|-------|
 | [`aula03`](./aula03) | API REST de cadastro de veículos e marcas | C# / ASP.NET Core 8 |
 
-## aula03 — Cadastro de Veículos e Marcas (API REST)
+## aula03 - Cadastro de Veículos e Marcas (API REST)
 
 Web API em ASP.NET Core com CRUD de veículos e marcas. Ao cadastrar ou editar um veículo, a API valida se a marca informada existe e está ativa.
 
