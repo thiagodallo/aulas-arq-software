@@ -1,6 +1,6 @@
 # aulas-arq-software
 
-Repositório de exercícios da disciplina de **Arquitetura de Software**, na 4ª fase do curso de Engenharia de Sofware do Centro Universitário SATC.
+Repositório de exercícios da disciplina de **Arquitetura de Software**, na 4ª fase do curso de Engenharia de Software do Centro Universitário SATC.
 
 ## Estrutura
 
